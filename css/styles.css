@@ -33,7 +33,7 @@ header {
     
 }
 
-.about-websudio {
+.about-webstudio {
     padding: 120px 0;
 }
 
@@ -71,7 +71,7 @@ header {
     cursor:pointer;
 }
 
-.visually-hidden {
+.header-two {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -79,7 +79,13 @@ header {
     color: #2E2F42;
     text-align: center;
     text-transform: capitalize;
+    margin-bottom: 72px;
     
+}
+
+.team-list {
+    display: flex;
+    gap: 24px;
 }
 
 .about-websudio-list {
@@ -192,6 +198,7 @@ header {
 .team-card {
     background-color: #ffffff;
     text-align: center;
+    width: ((100% - 72px)/4);
 }
 .footer-and {
     line-height: 1.5;
@@ -202,7 +209,9 @@ header {
 .our-team {
     background-color: #f4f4fd;
     text-align: center;
+    padding: 120px 0;
 }
+
 .our-portfolio {
     text-align: center;
 }
