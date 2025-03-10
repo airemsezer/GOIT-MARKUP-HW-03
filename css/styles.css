@@ -226,6 +226,9 @@ header {
     border-bottom-left-radius: 4px;
 }
 
+.one-card {
+    width: calc((100% - 72px)/4);
+}
 .team-card-name {
     padding: 32px 0;
 
