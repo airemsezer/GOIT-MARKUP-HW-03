@@ -111,9 +111,6 @@ header {
    
 }
 
-.about-websudio-list-item {
-    width: calc((100% - 72px) / 4);
-}
 
 .header-three {
     font-weight: 500;
@@ -219,7 +216,6 @@ header {
 .team-card {
     background-color: #ffffff;
     text-align: center;
-    width: calc((100% - 72px)/4);
     border-top-left-radius: 0px;
     border-top-right-radius: 0px;
     border-bottom-right-radius: 4px;
@@ -261,7 +257,6 @@ header {
 
 .our-portfolio-list-item {
     list-style-type: none;
-    width: calc((100% - 72px)/4);
 }
 
 
